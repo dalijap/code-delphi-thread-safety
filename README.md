@@ -14,6 +14,40 @@
   + SafeMath.dpr
   + SafeMath.dproj
 
+## Part 3. Core Frameworks 
+
+### Chapter 16. Serialization 
+
+  + Serialization.dpr
+  + Serialization.dproj
+  + SerializationMainF.pas
+  + SerializationMainF.dfm
+
+### Chapter 17. System.Net 
+
+  + NetClient.dpr
+  + NetClient.dproj
+  + NetClientMainF.pas
+  + NetClientMainF.dfm
+ 
+### Chapter 19. Indy 
+
+  + Indy.dpr
+  + Indy.dproj
+  + IndyMainF.pas
+  + IndyMainF.dfm
+
+### Chapter 20. REST 
+
+  + RESTDemo.dpr
+  + RESTDemo.dproj
+  + RESTMainF.pas
+  + RESTMainF.dfm
+
+### Chapter 21. Regular expressions 
+
+  + RegEx.dpr
+
 
 ## Part 5. Graphics and Image Processing 
 
