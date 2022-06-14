@@ -14,6 +14,14 @@
   + SafeMath.dpr
   + SafeMath.dproj
 
+### Chapter 12. Collections
+
+  + CollectionsTest.dpr
+  + CollectionsTest.dproj
+  + CollectionsMainF.pas
+  + CollectionsMainF.dfm
+
+
 ## Part 3. Core Frameworks 
 
 ### Chapter 16. Serialization 
