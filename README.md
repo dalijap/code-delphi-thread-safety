@@ -14,12 +14,46 @@
   + SafeMath.dpr
   + SafeMath.dproj
 
+### Chapter 7.1. Parameters
+
+  + Parameters.dpr
+  + Parameters.dproj
+  + ParametersMainF.pas
+  + ParametersMainF.dfm
+
+### Chapter 8. Class fields, singletons, and default instances
+
+  + Singletons.dpr
+  + Singletons.dproj
+  + SingletonsMainF.pas
+  + SingletonsMainF.dfm
+  + SingletonClasses.pas
+  + SingletonLocal.pas
+  + SingletonClassProp.pas
+  + SingletonLazy.pas
+
 ### Chapter 12. Collections
 
   + CollectionsTest.dpr
   + CollectionsTest.dproj
   + CollectionsMainF.pas
   + CollectionsMainF.dfm
+
+### Chapter 13. Parallel collection processing
+
+  + 13.1 Independent processing of individual collection items
+
+    - ParallelCollections.dpr
+    - ParallelCollections.dproj
+    - ParallelCollectionsMainF.pas
+    - ParallelCollectionsMainF.dfm
+
+  + 13.2 Dependent processing of individual collection items
+
+    - DependentParallelCollections.dpr
+    - DependentParallelCollections.dproj
+    - DependentParallelCollectionsMainF.pas
+    - DependentParallelCollectionsMainF.dfm
 
 
 ## Part 3. Core Frameworks 
